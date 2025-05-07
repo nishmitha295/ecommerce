@@ -1,4 +1,4 @@
-# MyStore - E-commerce Application
+# ShopEase - E-commerce Application
 
 ## Description
 
