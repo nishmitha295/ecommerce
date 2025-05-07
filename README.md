@@ -20,8 +20,8 @@ MyStore is a modern e-commerce web application built with React.js, Bootstrap, a
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/mystore.git
-cd mystore
+git clone https://github.com/your-username/ecommerce.git
+cd ecommerce
 ````
 
 ### 2. Install dependencies
